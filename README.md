@@ -7,9 +7,9 @@ This repository contains the code for automating the download of Optical Coheren
 
 **Usage Instructions:**
 1.	Download the macro script from the repository.
-2.	Open the Excel workbook containing the patient records and execute the macro according to provided guidelines.
-3.	Execute the macro; ensure Heyex, the Heidelberg Spectralis imaging software, is opened in full-screen mode, alongside specific screen resolution and fixed pixel positions, for optimal performance.
-4.	Follow prompts to initiate the download process.
+2.	Open the Excel workbook containing the patient records and execute the macro according to the provided guidelines.
+3.	Execute the macro; ensure Heyex, the Heidelberg Spectralis imaging software, is opened in full-screen mode, alongside screen resolution of 1920x1080 and fixed pixel positions, for optimal performance.
+4.	Follow the prompts to initiate the download process.
 5.	Monitor progress and retrieve exported OCT scans upon completion.
 
 **Disclaimer:** This script is provided as-is and should be used with caution. It is recommended to review and adapt the code to suit specific requirements and ensure compliance with relevant policies regarding data handling and automation.
